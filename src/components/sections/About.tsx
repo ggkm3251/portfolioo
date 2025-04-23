@@ -91,11 +91,11 @@ export const About: React.FC = () => {
             <div className="absolute -bottom-6 -right-6 bg-card p-4 border border-border rounded-lg shadow-lg">
               <div className="grid grid-cols-2 gap-4 text-center">
                 <div>
-                  <p className="text-3xl font-bold text-primary">5+</p>
+                  <p className="text-3xl font-bold text-primary">2+</p>
                   <p className="text-sm text-muted-foreground">Years Experience</p>
                 </div>
                 <div>
-                  <p className="text-3xl font-bold text-primary">50+</p>
+                  <p className="text-3xl font-bold text-primary">10+</p>
                   <p className="text-sm text-muted-foreground">Projects Completed</p>
                 </div>
               </div>
