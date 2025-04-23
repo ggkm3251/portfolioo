@@ -43,7 +43,7 @@ export const About: React.FC = () => {
             
             <div className="flex flex-wrap gap-4">
               <a 
-                href="#"
+                href="/portfolioo/Glenn_Mwangi_CV.pdf"
                 className="btn btn-primary px-6 py-2.5 flex items-center gap-2"
               >
                 <Download className="h-4 w-4" />
